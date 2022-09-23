@@ -1,26 +1,9 @@
 #include <iostream>
-#include "source.h"
-
-bool is_prime(int i)
-{
-    if (i == 1)
-    {
-        return true;
-    }
-    for (int j = 2; j < i; j++)
-    {
-        if (i % j == 0)
-        {
-            return false;
-        }
-    }
-    return true;
-}
+#include "sources.h"
 
 int main()
 {
     int i;
-    int empty;
     while (std::cin >> i)
     {
         if (is_prime(i))

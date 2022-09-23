@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 
 # set the project name
-project(find_motive)
+project(is_prime_motive)
 
 # add the lib
 add_library(mysource SHARED sources.cpp)
