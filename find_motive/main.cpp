@@ -43,7 +43,7 @@ int find_motive(int argc, char* argv[]) {
         }
     }
 
-    std::cout << "The file " << argv[0] << " contains " << count << " words containing the motive " << argv[2] << std::endl;
+    std::cout << "The file " << argv[1] << " contains " << count << " words containing the motive " << argv[2] << std::endl;
     return 0;
 }
 
