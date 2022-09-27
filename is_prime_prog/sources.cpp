@@ -4,7 +4,7 @@ bool is_prime(int i)
 {
     if (i == 1)
     {
-        return true;
+        return false;
     }
     for (int j = 2; j < i; j++)
     {
