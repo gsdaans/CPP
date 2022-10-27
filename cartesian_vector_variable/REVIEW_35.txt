@@ -1,0 +1,8 @@
+# cartesian_vector_param
+
+- Les tests passent bien
+- Bonne lisibilité dans le code
+- Vous avez bien utilisé value au lieu de int
+- Les fonctions de vector.hh sont biens définis dans un .cc
+
+Rien à dire de plus c’est très bien.
