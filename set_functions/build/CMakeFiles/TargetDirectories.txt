@@ -1,0 +1,3 @@
+/home/dsarmiento/Documents/perso/CPP/set_functions/build/CMakeFiles/main.dir
+/home/dsarmiento/Documents/perso/CPP/set_functions/build/CMakeFiles/edit_cache.dir
+/home/dsarmiento/Documents/perso/CPP/set_functions/build/CMakeFiles/rebuild_cache.dir
